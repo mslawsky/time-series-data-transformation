@@ -39,15 +39,15 @@ This repository serves as an **educational resource** for understanding time ser
 
 ## The 9 Forecasting Steps 🔄
 
--**Step 0:** **Generate Time Series Data** - Creating realistic synthetic time series with trends and seasonality
--**Step 1:** **Split into Training and Validation** - Proper temporal data splitting for forecasting evaluation
--**Step 2:** **Naive Forecasting** - Simple baseline prediction using last known values
--**Step 3:** **Zoom in on Validation Period** - Focused analysis of prediction performance
--**Step 4:** **Moving Average** - Smoothing-based forecasting approach
--**Step 5:** **Differencing** - Removing trends to create stationary series
--**Step 6:** **Diff Moving Average** - Combining differencing with moving average forecasting
--**Step 7:** **Diff Moving Average + Past** - Enhanced forecasting using historical patterns
--**Step 8:** **Smooth Past Series** - Advanced smoothing techniques for improved predictions
+- **Step 0:** **Generate Time Series Data** - Creating realistic synthetic time series with trends and seasonality
+- **Step 1:** **Split into Training and Validation** - Proper temporal data splitting for forecasting evaluation
+- **Step 2:** **Naive Forecasting** - Simple baseline prediction using last known values
+- **Step 3:** **Zoom in on Validation Period** - Focused analysis of prediction performance
+- **Step 4:** **Moving Average** - Smoothing-based forecasting approach
+- **Step 5:** **Differencing** - Removing trends to create stationary series
+- **Step 6:** **Diff Moving Average** - Combining differencing with moving average forecasting
+- **Step 7:** **Diff Moving Average + Past** - Enhanced forecasting using historical patterns
+- **Step 8:** **Smooth Past Series** - Advanced smoothing techniques for improved predictions
 
 Each step demonstrates progressive improvements in forecasting methodology and shows how different techniques affect prediction accuracy and model performance.
 
