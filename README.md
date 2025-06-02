@@ -411,8 +411,6 @@ Special thanks to:
 - [Andrew Ng](https://www.andrewng.org/) for foundational machine learning education
 - [Laurence Moroney](https://twitter.com/lmoroney) for excellent TensorFlow instruction and practical insights
 - The time series analysis community for developing robust methodological frameworks
-- **Rob Hyndman** and **George Athanasopoulos** for "Forecasting: Principles and Practice"
-- **James Hamilton** for comprehensive time series econometrics foundation
 - The **open source community** for providing excellent analysis tools and libraries
 
 This project was developed to promote thoughtful, well-informed approaches to time series analysis and preprocessing decisions.
